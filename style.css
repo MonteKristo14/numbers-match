@@ -1,0 +1,14 @@
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+.section1, .section2{
+    background: rgb(179, 179, 233);
+    width: 100%;
+    height: auto;
+   
+}
+
+.section2{
+    margin-top: 40px;
+}
